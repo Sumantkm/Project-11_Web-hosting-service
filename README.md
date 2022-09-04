@@ -1,4 +1,4 @@
-# Web hosting service - [LINK](https://webhosting11-page.netlify.app/)
+# Web hosting service - [LINK](https://webhosting-11-service.netlify.app/)
 ![Ineuron & LCO](https://img.shields.io/badge/Ineuron-LCO-brightgreen) 
 ![Ineuron & LCO](https://img.shields.io/badge/Hitesh%20Choudhary-Full--stack--JS--bootcamp-brightgreen)
 <br>
